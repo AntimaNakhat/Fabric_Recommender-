@@ -64,7 +64,7 @@ def fabric_info():
     return render_template("fabric_info.html", result=result)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=10000)
 
 
 # also pip install waitress pandas requests python-dotenv flask gunicorn
