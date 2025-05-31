@@ -1,3 +1,4 @@
+https://smart-fabric-recommender.onrender.com
 # 🌤️ Fabric Recommender Web App
 
 This Flask-based web application recommends suitable fabrics based on real-time weather data and user-selected activities. It fetches weather information from the OpenWeatherMap API and matches conditions with a dataset of fabric preferences to provide smart textile suggestions.
